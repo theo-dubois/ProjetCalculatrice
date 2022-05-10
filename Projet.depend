@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652186900 source:d:\documents\bureau\c++\projetcalculatrice\main.cpp
+	"Constante.h"
+	<iostream>
+
+1652186409 d:\documents\bureau\c++\projetcalculatrice\include\constante.h
+	<iostream>
+
